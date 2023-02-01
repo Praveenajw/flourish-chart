@@ -4,6 +4,8 @@ The intuitive Flourish platform helps us create easy-to-use visualizations in a 
 
 Visit -> flourish.studio
 
+# SCREENSHOTS
+
 
 ![Screenshot (98)](https://user-images.githubusercontent.com/82393502/215447748-efc952a0-394d-4142-88fa-f12415082d9f.png)
 ![Screenshot (100)](https://user-images.githubusercontent.com/82393502/215447757-3b2c87c7-7351-43d1-90a8-f0e80f142e67.png)
